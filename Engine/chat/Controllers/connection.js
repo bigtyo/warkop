@@ -1,8 +1,7 @@
 /**
  * New node file
  */
-var io = require('socket.io')(http);
-//var chat_controller = require("./chat");
+
 var _io;
 
 
